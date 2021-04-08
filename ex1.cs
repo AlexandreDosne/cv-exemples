@@ -1,6 +1,6 @@
 ﻿/*
  *      Codé par Alexandre Dosne.
- *      Tiré d'un logiciel de contabilité privé développé pour un ami.
+ *      Tiré d'un logiciel de comptabilité privé développé pour un ami.
  */
 
 using System;
